@@ -1,4 +1,4 @@
-# Teste Full Stack Social Wave Ruby On Rails
+# Teste Ruby On Rails Social Wave
 
 ### Descriao da aplicação
 A aplicação tem como objetivo a criação e venda de ingressos, e deve utilizar as seguintes tecnologias : 
