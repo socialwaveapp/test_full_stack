@@ -1,6 +1,6 @@
 # Teste Ruby On Rails Social Wave
 
-### Descriao da aplicação
+### Descrção da aplicação
 A aplicação tem como objetivo a criação e venda de ingressos, e deve utilizar as seguintes tecnologias : 
 * [Ruby On Rails](http://api.rubyonrails.org/) 
 * [Html, Css](https://www.w3schools.com/)
