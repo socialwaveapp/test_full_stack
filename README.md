@@ -1,12 +1,12 @@
 # Teste Ruby On Rails Social Wave
 
 ### Descrção da aplicação
-A aplicação tem como objetivo a criação e venda de ingressos, e deve utilizar as seguintes tecnologias : 
+A aplicação tem como objetivo a criação de uma loja web para venda de ingressos e deve utilizar as seguintes tecnologias : 
 * [Ruby On Rails](http://api.rubyonrails.org/) 
 * [Html, Css](https://www.w3schools.com/)
 
 ### Requisitos da aplicação
-A aplicação deve permitir a criação, atualização, exclusão e visualização utilizando os padrões 
+A aplicação deve permitir a criação, atualização, exclusão e visualização de ingressos e pedidos, utilizando os padrões 
 estabelecidos pelo framework Ruby On Rails.
 
 * Os dados devem ser persistidos em um banco de dados Open Source.
